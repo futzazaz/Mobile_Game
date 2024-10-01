@@ -17,9 +17,7 @@ MonoBehaviour:
   m_PlatformId: 4e3c793746204150860bf175a9a41a05
   m_PlatformBuildProfile:
     rid: 1296125367697539093
-  m_Scenes:
-  - m_enabled: 1
-    m_path: Assets/Scenes/SampleScene.unity
+  m_Scenes: []
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:
     m_Settings:
@@ -741,7 +739,7 @@ MonoBehaviour:
         m_CompressionType: 0
         m_InstallInBuildFolder: 0
         m_WindowsBuildAndRunDeployTarget: 0
-        m_Architecture: 1
+        m_Architecture: 0
         m_CreateSolution: 0
         m_CopyPDBFiles: 0
         m_WindowsDevicePortalAddress: 
